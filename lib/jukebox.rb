@@ -11,6 +11,7 @@ songs = [
   "Harry Chapin - Cats in the Cradle",
   "Amos Lee - Keep It Loose, Keep It Tight"
 ]
+user_input = ""
 
 def help 
   puts "I accept the following commands:"
